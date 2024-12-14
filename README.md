@@ -139,8 +139,4 @@ npm run build
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Contact
 
-For any queries regarding the project, please contact:
-- Email: info@noorbeautysalon.pk
-- Phone: +92 300 1234567
