@@ -57,8 +57,8 @@ src/
 
 1. **Clone the repository**
 ```bash
-git clone [repository-url]
-cd noor-beauty-salon
+git clone https://github.com/musfirakhan/Online-Appointment-Booking-System-.git
+cd (path to downloaded folder)/Online-Appointment-Booking-System-
 ```
 
 2. **Install dependencies**
