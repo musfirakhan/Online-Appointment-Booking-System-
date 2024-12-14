@@ -15,7 +15,7 @@ export const treatments: Treatment[] = [
     name: 'Hair Treatment & Spa',
     description: 'Deep conditioning treatment with scalp massage and hair spa',
     duration: 90,
-    price: 3000,
+    price: 1000,
     imageUrl: 'https://images.unsplash.com/photo-1560869713-7d0a29430803',
     category: 'hair'
   },
