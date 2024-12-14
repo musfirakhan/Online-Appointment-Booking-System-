@@ -43,7 +43,7 @@ export function Home() {
           <div className="bg-white p-6 rounded-lg shadow-md">
             <Phone className="w-8 h-8 text-pink-600 mb-4" />
             <h2 className="text-xl font-semibold mb-2">Contact</h2>
-            <p className="text-gray-600">+92 300 1234567</p>
+            <p className="text-gray-600">+92 303 9219395</p>
           </div>
         </div>
       </div>
