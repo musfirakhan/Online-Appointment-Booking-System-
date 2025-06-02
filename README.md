@@ -51,7 +51,7 @@ src/
 └── main.tsx          # Entry point
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
 ```bash
@@ -74,7 +74,7 @@ npm run dev
 npm run build
 ```
 
-## 📱 Features by Page
+## Features by Page
 
 ### Home Page
 - Hero section with booking CTA
@@ -121,7 +121,7 @@ npm run build
 - **Cards**: Service and gallery items
 - **Navigation**: Responsive navbar
 
-## 🔧 Development
+## Development
 
 ### Code Organization
 - Components follow single responsibility principle
@@ -137,7 +137,4 @@ npm run build
 - Performance optimizations
 - Clean code principles
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
