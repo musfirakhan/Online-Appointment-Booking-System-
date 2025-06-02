@@ -2,7 +2,7 @@
 
 A modern, responsive website for Noor Beauty Salon located in Model Town B, Bahawalpur. Built with React, TypeScript, and Tailwind CSS.
 
-## 🌟 Features
+## Features
 
 - **Modern Design**: Clean and professional UI with responsive layout
 - **Online Booking**: Integrated appointment booking system
@@ -10,7 +10,7 @@ A modern, responsive website for Noor Beauty Salon located in Model Town B, Baha
 - **Image Gallery**: Visual showcase of salon work
 - **Contact Form**: Easy communication channel for customers
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend Framework**: React 18.3
 - **Type System**: TypeScript
@@ -106,7 +106,7 @@ npm run build
 - Business hours
 - Location details
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 - Primary: Rose (Tailwind rose-600)
